@@ -12,7 +12,6 @@
  * livecss.unwatch(linkElement)
  */
 
-/*add a comment line - 2nd */
 
 var livecss = {
   // How often to poll for changes to the CSS.
